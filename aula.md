@@ -1,0 +1,18 @@
+ - [ ] Não determinística; probabilistica;
+ - [ ] a Ai precisa de um Contexto - Ajuda o meu "corpo do site" referenciar o arquivo que quero no contexto.
+ - [ ] LLM Large Language Model
+ - [ ] Mandar o print do contexto!
+ - [ ] Autocomplete - boas e ruins
+ - [ ] Active recall  - Ativamente relembrar das coisas, e estou aprendendo fundamentos e eu mesmo digitar isso- querem usar a IA até demais e eu não saber o que está fazendo e acontecendo, e certos momentos desativa o autocomplete na caixinha inferior e vc mesmo digitar!
+ - [ ] Como gerar explicações com  IA
+   - [ ] Cuidados: nem sempre tudo é verdade, volta para o ínicio
+   - [ ] Alucinação, ela vai dizer que tenho razão ou algo assim.
+ - [ ]  agentes: Agente, ask (tirar dúvidas, pensar junto, ter ideias, eplicar...)
+ - [ ] Planejar então gerar - quero um histórico(modo Plan)
+ - [ ] (o momento que eu uso o agente) Gerar então explicar (agente)
+ - [ ] Tree of  thought: árvore de pesnamentos
+   - [ ] Gerar várias soluções, e depois escolher a melhor solução, e depois explicar a melhor solução.
+ - [ ] Documentação
+ - [ ] PARE: Pergunte, anote , revise, explique, PARE
+ - [ ] 
+ - [ ] 
